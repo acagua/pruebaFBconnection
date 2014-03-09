@@ -86,10 +86,10 @@
     	<param name="camb­a­l­a­c­h­e­-­b­l­o­ndis" value="..." />
     </gap:plugin>
 
-    <!-- plugin de iAds. --> 
+    <!-- plugin de iAds. -- 
 	
    <gap:plugin name="com.rjfun.cordova.plugin.iad" />
-
+   -->
     <!--
         Define access to external domains.
 
