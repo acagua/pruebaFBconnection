@@ -82,11 +82,11 @@
 
     <!-- Plugin de facebook. -->
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
-    	<param name="404876252980169" value="..." />
-    	<param name="camb­a­l­a­c­h­e­-­b­l­o­ndis" value="..." />
+    	<param name="APP_ID" value="404876252980169" />
+    	<param name="­­­APP_NAME" value="camb­a­l­a­c­h­e­-­b­l­o­ndis" />
     </gap:plugin>
 
-    <!-- plugin de iAds. -- 
+    <!-- plugin de iAds. --
 	
    <gap:plugin name="com.rjfun.cordova.plugin.iad" />
    -->
