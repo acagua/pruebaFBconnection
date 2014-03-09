@@ -80,16 +80,12 @@
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
 
-    <!-- Plugin de facebook. -->
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
     	<param name="APP_ID" value="404876252980169" />
     	<param name="­­­APP_NAME" value="camb­a­l­a­c­h­e­-­b­l­o­ndis" />
     </gap:plugin>
+    <gap:plugin name="com.rjfun.cordova.plugin.iad" />
 
-    <!-- plugin de iAds. --
-	
-   <gap:plugin name="com.rjfun.cordova.plugin.iad" />
-   -->
     <!--
         Define access to external domains.
 

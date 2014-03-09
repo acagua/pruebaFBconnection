@@ -52,8 +52,8 @@
     <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
-        <param name="404876252980169" value="..." />
-        <param name="camb­a­l­a­c­h­e­-­b­l­o­ndis" value="..." />
+        <param name="APP_ID" value="404876252980169" />
+        <param name="­­­APP_NAME" value="camb­a­l­a­c­h­e­-­b­l­o­ndis" />
     </gap:plugin>
     <gap:plugin name="com.rjfun.cordova.plugin.iad" />
     <access origin="http://127.0.0.1*" />
